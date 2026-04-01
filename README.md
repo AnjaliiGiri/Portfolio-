@@ -20,6 +20,7 @@ A clean, professional developer portfolio built with pure HTML, CSS and JavaScri
 
 ## 📂 Structure
 portfolio/
+
 └── index.html
 ## 👩‍💻 Author
 **Anjali Giri**
